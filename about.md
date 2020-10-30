@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+[Nominsang](http://nominsang.cn/) 是一款基于DC元数据的文献管理系统。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Nominsang 是一个蒙古语词语，本意即为“图书馆”，标准写法应该是 NOM（ᠨᠣᠮ） IN（‍ᠣᠨ） SANG（ᠰᠠᠩ）。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Nominsang系统的开发就是因为蒙古文数字文献的制作管理和使用需要而开始的，后期逐渐完善
+形成了现在的Nominsang。
