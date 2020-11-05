@@ -4,15 +4,11 @@ title: 文档
 permalink: /docs/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Nominsang 是一款基于 DCMI 元数据标准构建的文献管理系统。初期用于管理 [CADAL](https://cadal.cn/) 数据，逐渐发展为一套用于管理数字文献的独立系统。 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Nominsang 代码托管在 GitHub:
+[nominsang][nominsang组织] /
+[nominsang](https://github.com/nominsang/nominsang)
 
 
-[jekyll-organization]: https://github.com/jekyll
+[Nominsang组织]: https://github.com/nominsang
